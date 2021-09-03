@@ -1,7 +1,6 @@
 some webscraping
 
 ```
-pip install beautifulsoup4 
-pip install lxml
-pip install requests
+echo "python should be installed first"
+pip install pillow BeautifulSoup4 pandas requests
 ```

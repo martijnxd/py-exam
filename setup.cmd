@@ -1,2 +1,2 @@
-pip install pillow
-pip install BeautifulSoup4
+echo "python should be installed first"
+pip install pillow BeautifulSoup4 pandas requests
